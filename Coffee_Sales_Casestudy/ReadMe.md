@@ -6,4 +6,5 @@
 
 3. Aggregating data (e.g., sum, count, average) Filtering and sorting data Grouping and joining multiple tables Using SQL functions like AVG(), COUNT(), SUM(), and MIN/MAX() Handling advanced SQL features such as row numbering, transactions, and stored procedures
 
-#This dataset contains SQL case study in analysing sales, products, and marketing data. It contains several SQL queries related to a simulated business database for product sales, marketing expenses, and location data. This database consists of three main tables: Fact, Product, and Location.
+-------------------------------------------------------------------------------------------------
+This dataset contains SQL case study in analysing sales, products, and marketing data. It contains several SQL queries related to a simulated business database for product sales, marketing expenses, and location data. This database consists of three main tables: Fact, Product, and Location.
