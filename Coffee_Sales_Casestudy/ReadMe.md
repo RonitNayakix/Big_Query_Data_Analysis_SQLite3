@@ -6,6 +6,6 @@
 
 3. Aggregating data (e.g., sum, count, average) Filtering and sorting data Grouping and joining multiple tables Using SQL functions like AVG(), COUNT(), SUM(), and MIN/MAX() Handling advanced SQL features such as row numbering, transactions, and stored procedures
 
-Link - https://github.com/RonitNayakix/Big_Query_Data_Analysis_SQLite3/blob/main/Coffee_Sales_Casestudy/Casestudy_python/Product_Data-Analysis.ipynb
+Link - "https://github.com/RonitNayakix/Big_Query_Data_Analysis_SQLite3/blob/main/Coffee_Sales_Casestudy/Casestudy_python/Product_Data-Analysis.ipynb"
 -------------------------------------------------------------------------------------------------
 This dataset contains SQL case study in analysing sales, products, and marketing data. It contains several SQL queries related to a simulated business database for product sales, marketing expenses, and location data. This database consists of three main tables: Fact, Product, and Location.
